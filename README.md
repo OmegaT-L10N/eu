@@ -1,0 +1,2 @@
+# eu
+Basque OmegaT Localisation
