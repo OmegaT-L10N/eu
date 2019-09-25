@@ -6931,6 +6931,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T070103Z" creationid="asiersarasua" creationdate="20190925T070055Z">
+        <seg>Sartu &amp;beste hizkuntza batzuetako parekatzeak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190920T112303Z" creationid="assar" creationdate="20190920T112303Z">
@@ -9757,6 +9765,14 @@ desegiten behe-lainoa bezala.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190916T125621Z" creationid="assar" creationdate="20190916T125621Z">
         <seg>Eredua...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T070145Z" creationid="asiersarasua" creationdate="20190925T070145Z">
+        <seg>Beste hizkuntza batzuetako parekatzeetarako zigorra</seg>
       </tuv>
     </tu>
     <tu>
