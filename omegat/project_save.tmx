@@ -2194,6 +2194,14 @@ Uneko ezarpena {0}MB-koa da;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071501Z" creationid="asiersarasua" creationdate="20190925T071501Z">
+        <seg>Proiektuko DOCX fitxategi guztiak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141230T212352Z" creationid="assar" creationdate="20141230T212352Z">
@@ -2704,6 +2712,14 @@ eduki dezake, nahiz eta beti portaera zuzena izango den.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071445Z" creationid="asiersarasua" creationdate="20190925T071445Z">
+        <seg>Babeskopia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T092150Z" creationid="assar" creationdate="20141229T092150Z">
@@ -2744,6 +2760,22 @@ Buy another drink</seg>
         <seg>Zerbitzariak ozen egin du oihu:
 Ez da aurkitu zure orria, motel
 Hartu beste trago bat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071441Z" creationid="asiersarasua" creationdate="20190925T071441Z">
+        <seg>Edertu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071455Z" creationid="asiersarasua" creationdate="20190925T071455Z">
+        <seg>Edertu emaitzako DOCX fitxategia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +3372,14 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071437Z" creationid="asiersarasua" creationdate="20190925T071437Z">
+        <seg>'{0}' sarrera garbitzen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T163734Z" creationid="assar" creationdate="20141229T163734Z">
@@ -3778,10 +3818,34 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071443Z" creationid="asiersarasua" creationdate="20190925T071443Z">
+        <seg>Bihurtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190922T064556Z" creationid="assar" creationdate="20190922T064556Z">
         <seg>Bihurtu talde-proiektu zaharra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071341Z" creationid="asiersarasua" creationdate="20190925T071341Z">
+        <seg>Proiektuko .DOCX guztiak bihurtzen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071349Z" creationid="asiersarasua" creationdate="20190925T071349Z">
+        <seg>Uneko .DOCX dokumentua bihurtzen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,6 +4004,14 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071517Z" creationid="asiersarasua" creationdate="20190925T071517Z">
+        <seg>Sortu jaotorrizko DOCX fitxategien babeskopiak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T120127Z" creationid="assar" creationdate="20141229T120127Z">
@@ -3980,6 +4052,14 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071429Z" creationid="asiersarasua" creationdate="20190925T071429Z">
+        <seg>Irteerako '{0}' fitxategia sortzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141228T212851Z" creationid="assar" creationdate="20141228T212851Z">
@@ -4000,6 +4080,14 @@ Hartu beste trago bat.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141230T212244Z" creationid="assar" creationdate="20141230T212244Z">
         <seg>Sortzailea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071505Z" creationid="asiersarasua" creationdate="20190925T071505Z">
+        <seg>Uneko DOCX fitxategia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7870,6 +7958,94 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071439Z" creationid="asiersarasua" creationdate="20190925T071439Z">
+        <seg>Maila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071521Z" creationid="asiersarasua" creationdate="20190925T071521Z">
+        <seg>0. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071523Z" creationid="asiersarasua" creationdate="20190925T071523Z">
+        <seg>1. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071525Z" creationid="asiersarasua" creationdate="20190925T071525Z">
+        <seg>2. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071528Z" creationid="asiersarasua" creationdate="20190925T071528Z">
+        <seg>3. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071530Z" creationid="asiersarasua" creationdate="20190925T071530Z">
+        <seg>4. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071533Z" creationid="asiersarasua" creationdate="20190925T071533Z">
+        <seg>5. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071535Z" creationid="asiersarasua" creationdate="20190925T071535Z">
+        <seg>6. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071542Z" creationid="asiersarasua" creationdate="20190925T071542Z">
+        <seg>7. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071545Z" creationid="asiersarasua" creationdate="20190925T071545Z">
+        <seg>8. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071548Z" creationid="asiersarasua" creationdate="20190925T071548Z">
+        <seg>9. maila:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -8757,6 +8933,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071357Z" creationid="asiersarasua" creationdate="20190925T071357Z">
+        <seg>Ez dago .DOCX fitxategirik garbitzeko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190921T073511Z" creationid="assar" creationdate="20190921T073511Z">
@@ -9553,6 +9737,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T110930Z" creationid="assar" creationdate="20141229T110930Z">
         <seg>OpenDocument iragazkien aukerak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071417Z" creationid="asiersarasua" creationdate="20190925T071417Z">
+        <seg>Sarrerako '{0}' fitxategia irekitzen</seg>
       </tuv>
     </tu>
     <tu>
@@ -12024,6 +12216,14 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071327Z" creationid="asiersarasua" creationdate="20190925T071327Z">
+        <seg>Hautatutako aukerak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141222T094546Z" creationid="assar" creationdate="20141222T094546Z">
@@ -12316,6 +12516,14 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190922T065307Z" creationid="assar" creationdate="20190922T065307Z">
         <seg>Zerbait gaizki joan da, begiratu Tilde Terminology xehetasun gehiagorako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071551Z" creationid="asiersarasua" creationdate="20190925T071551Z">
+        <seg>Barkatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13006,6 +13214,14 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
       </tuv>
       <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071247Z" creationid="asiersarasua" creationdate="20190925T071247Z">
         <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071407Z" creationid="asiersarasua" creationdate="20190925T071407Z">
+        <seg>Tagwipe amaitu da, proiektua birkargatzen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15023,6 +15239,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T161548Z" creationid="assar" creationdate="20141229T161548Z">
         <seg>Abisua: Etiketen ordena aldatzeak itzulitako dokumentua hautsi dezake!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071602Z" creationid="asiersarasua" creationdate="20190925T071602Z">
+        <seg>Ezin izan dugu aurkitu bilatzen ari zaren orria.</seg>
       </tuv>
     </tu>
     <tu>
