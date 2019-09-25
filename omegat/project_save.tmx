@@ -5636,10 +5636,26 @@ Armiarma-hariek geldiarazten zaituzte
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extract Text Content</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071151Z" creationid="asiersarasua" creationdate="20190925T071151Z">
+        <seg>Erauzi testu-edukia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T163545Z" creationid="assar" creationdate="20141229T163545Z">
         <seg>Erauzitako iruzkinak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extracts the content of the projects in a single text file (one line per segment).</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071212Z" creationid="asiersarasua" creationdate="20190925T071212Z">
+        <seg>Proiektuen edukia testu-fitxategi bakar batera erauzten ditu (lerro bat segmentuko).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8749,6 +8765,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Loaded Project</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071218Z" creationid="asiersarasua" creationdate="20190925T071218Z">
+        <seg>Ez dago proiekturik kargatuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T162445Z" creationid="assar" creationdate="20141229T162445Z">
@@ -8793,6 +8817,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T162633Z" creationid="assar" creationdate="20141229T162633Z">
         <seg>Ez dago hiztegi erabilgarririk urruneko zerbitzarian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071303Z" creationid="asiersarasua" creationdate="20190925T071303Z">
+        <seg>Ez dago proiekturik kargatuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10003,6 +10035,14 @@ beste ezer egin behar den jakiteko.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please try again after opening a project.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071226Z" creationid="asiersarasua" creationdate="20190925T071226Z">
+        <seg>Saiatu berriro proiektu bat ireki ondoren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please try again after you open a project.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141222T142849Z" creationid="assar" creationdate="20141222T142849Z">
@@ -10332,6 +10372,14 @@ gisa kargatzeko, talde-funtzionaltasunik gabe.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T162437Z" creationid="assar" creationdate="20141229T162437Z">
         <seg>Proiektuaren konpilazioa hasi da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071308Z" creationid="asiersarasua" creationdate="20190925T071308Z">
+        <seg>Proiektuak ez du fitxategirik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10844,6 +10892,14 @@ Hitz hauek: 'Ez da aurkitu orria'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071255Z" creationid="asiersarasua" creationdate="20190925T071255Z">
+        <seg>Kendu etiketak DOCX dokumentuetatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190920T104952Z" creationid="assar" creationdate="20190920T104952Z">
@@ -11226,6 +11282,14 @@ Hitz hauek: 'Ez da aurkitu orria'</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190916T124055Z" creationid="assar" creationdate="20141229T211651Z">
         <seg>Exekutatu scripta #{0} slot-ean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071323Z" creationid="asiersarasua" creationdate="20190925T071323Z">
+        <seg>Tagwipe exekutatzen '{0}' fitxategiarekin</seg>
       </tuv>
     </tu>
     <tu>
@@ -12360,6 +12424,14 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Text File: {0}</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071234Z" creationid="asiersarasua" creationdate="20190925T071234Z">
+        <seg>Soruburko testu-fitxategia: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141230T213355Z" creationid="assar" creationdate="20141230T213355Z">
@@ -12930,10 +13002,26 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071247Z" creationid="asiersarasua" creationdate="20190925T071247Z">
+        <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141222T142714Z" creationid="assar" creationdate="20141222T142714Z">
         <seg>Helburua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target Text File: {0}</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071241Z" creationid="asiersarasua" creationdate="20190925T071241Z">
+        <seg>Helburuko testu-fitxategia: {0}</seg>
       </tuv>
     </tu>
     <tu>
