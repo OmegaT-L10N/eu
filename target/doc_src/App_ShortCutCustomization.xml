@@ -172,7 +172,7 @@
           </row>
 
           <row>
-            <entry>Open Recent Project</entry>
+            <entry>Ireki azken proiektua</entry>
 
             <entry/>
 
@@ -212,7 +212,7 @@
           </row>
 
           <row>
-            <entry>Save</entry>
+            <entry>Gorde</entry>
 
             <entry><keycap>Ctrl+S</keycap></entry>
 
@@ -220,7 +220,7 @@
           </row>
 
           <row>
-            <entry>Create Translated Documents</entry>
+            <entry>Sortu dokumentu itzuliak</entry>
 
             <entry><keycap>Ctrl+D</keycap></entry>
 
@@ -236,7 +236,7 @@
           </row>
 
           <row>
-            <entry>Properties...</entry>
+            <entry>Propietateak...</entry>
 
             <entry><keycap>Ctrl+E</keycap></entry>
 
@@ -244,7 +244,7 @@
           </row>
 
           <row>
-            <entry>Project Files...</entry>
+            <entry>Proiektuaren fitxategiak...</entry>
 
             <entry><keycap>Ctrl+L</keycap></entry>
 
@@ -316,7 +316,7 @@
           </row>
 
           <row>
-            <entry>Quit</entry>
+            <entry>Irten</entry>
 
             <entry><keycap>Ctrl+Q</keycap></entry>
 
