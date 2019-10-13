@@ -4076,6 +4076,22 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080718Z" creationid="asiersarasua" creationdate="20191013T080718Z">
+        <seg>Urruneko OmegaT proiektu baten kopia lokala sortzen du.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080702Z" creationid="asiersarasua" creationdate="20191013T080702Z">
+        <seg>Proiektu berria sortu eta irekitzen du.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating output file '{0}'</seg>
       </tuv>
       <tuv lang="eu" changeid="asiersarasua" changedate="20190925T071429Z" creationid="asiersarasua" creationdate="20190925T071429Z">
@@ -4770,6 +4786,14 @@ Hartu beste trago bat.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190920T114206Z" creationid="assar" creationdate="20190920T114206Z">
         <seg>Deskargatu talde-proiektua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080706Z" creationid="asiersarasua" creationdate="20191013T080706Z">
+        <seg>Deskargatu talde-proiektua...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6345,6 +6369,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T212520Z" creationid="assar" creationdate="20141229T212520Z">
         <seg>Git '{0}' exekuzioa abiatu da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080759Z" creationid="asiersarasua" creationdate="20191013T080759Z">
+        <seg>Editatutako azken hamar proiektuak irekitzeko bidea ematen du.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8917,6 +8949,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080655Z" creationid="asiersarasua" creationdate="20191013T080655Z">
+        <seg>Berria...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141230T212305Z" creationid="assar" creationdate="20141230T212305Z">
@@ -9685,6 +9725,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080743Z" creationid="asiersarasua" creationdate="20191013T080743Z">
+        <seg>Ireki azken proiektua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190918T071137Z" creationid="assar" creationdate="20190918T071137Z">
@@ -9765,6 +9813,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080722Z" creationid="asiersarasua" creationdate="20191013T080722Z">
+        <seg>Ireki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T110928Z" creationid="assar" creationdate="20141229T110928Z">
@@ -9793,6 +9849,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190922T064908Z" creationid="assar" creationdate="20190922T064908Z">
         <seg>Talde-proiektua irekitzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080735Z" creationid="asiersarasua" creationdate="20191013T080735Z">
+        <seg>Sortuta dagoen proiektu bat irekitzen du.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10524,6 +10588,14 @@ gisa kargatzeko, talde-funtzionaltasunik gabe.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141230T212154Z" creationid="assar" creationdate="20141230T212154Z">
         <seg>Prozesatzen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080652Z" creationid="asiersarasua" creationdate="20191013T080650Z">
+        <seg>Proiektua</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,6 +11742,14 @@ Hitz hauek: 'Ez da aurkitu orria'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080814Z" creationid="asiersarasua" creationdate="20191013T080814Z">
+        <seg>Gorde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190921T072846Z" creationid="assar" creationdate="20190921T072846Z">
@@ -11722,6 +11802,14 @@ Hitz hauek: 'Ez da aurkitu orria'</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190921T073137Z" creationid="assar" creationdate="20190921T073137Z">
         <seg>Gorde segmentazio-arauek aldaketak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080812Z" creationid="asiersarasua" creationdate="20191013T080812Z">
+        <seg>Itzulpena gorde eta proiektua ixten du.</seg>
       </tuv>
     </tu>
     <tu>
