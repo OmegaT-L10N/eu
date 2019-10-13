@@ -2154,6 +2154,14 @@ Uneko ezarpena {0}MB-koa da;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T081154Z" creationid="asiersarasua" creationdate="20191013T081154Z">
+        <seg>Lerrokatu fitxategiak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T211841Z" creationid="assar" creationdate="20141229T211841Z">
@@ -3176,6 +3184,14 @@ Hartu beste trago bat.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190918T070843Z" creationid="assar" creationdate="20190918T070843Z">
         <seg>Egiaztatu &amp;uneko dokumentuaren arazoak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T081137Z" creationid="asiersarasua" creationdate="20191013T081137Z">
+        <seg>Egiaztatu arazoak...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6233,6 +6249,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T211513Z" creationid="assar" creationdate="20141229T211513Z">
         <seg>Aurkitua hemen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T081147Z" creationid="asiersarasua" creationdate="20191013T081147Z">
+        <seg>Lau arazo mota detektatu dira:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14359,6 +14383,14 @@ eta exekutatu hura ./linux-install.sh erabilita. </seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T114923Z" creationid="assar" creationdate="20141229T114923Z">
         <seg>HTML fitxategi handiegia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T081133Z" creationid="asiersarasua" creationdate="20191013T081133Z">
+        <seg>Tresnak</seg>
       </tuv>
     </tu>
     <tu>
