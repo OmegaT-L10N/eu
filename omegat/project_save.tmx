@@ -1954,6 +1954,14 @@ Uneko ezarpena {0}MB-koa da;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080245Z" creationid="asiersarasua" creationdate="20191013T080245Z">
+        <seg>Sartu konfigurazioaren karpetara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Scripts Folder</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190916T124136Z" creationid="assar" creationdate="20190916T124136Z">
@@ -2262,6 +2270,14 @@ Uneko ezarpena {0}MB-koa da;</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T120838Z" creationid="assar" creationdate="20141229T120838Z">
         <seg>Segmentu aktiboko ohar bat ikusi, gehitu, kendu edo editatzea ahalbidetzen du.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080217Z" creationid="asiersarasua" creationdate="20191013T080217Z">
+        <seg>Itzulpen automatikorako eskainitako aktibatzea/desaktibatzea ahalbidetzen du.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2603,6 +2619,14 @@ eduki dezake, nahiz eta beti portaera zuzena izango den.</seg>
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190918T070931Z" creationid="assar" creationdate="20190918T070931Z">
+        <seg>Osatze automatikoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080223Z" creationid="asiersarasua" creationdate="20191013T080223Z">
         <seg>Osatze automatikoa</seg>
       </tuv>
     </tu>
@@ -5020,6 +5044,14 @@ project_save.tmx ez da kargatu eta SVN egoera ezegonkorrean geratu da.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190919T070227Z" creationid="assar" creationdate="20190919T070227Z">
         <seg>Editorearen aukerak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080232Z" creationid="asiersarasua" creationdate="20191013T080232Z">
+        <seg>Editorea...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8208,6 +8240,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080145Z" creationid="asiersarasua" creationdate="20191013T080145Z">
+        <seg>Itzulpen automatikoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T120805Z" creationid="assar" creationdate="20141229T120805Z">
@@ -9757,6 +9797,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080142Z" creationid="asiersarasua" creationdate="20191013T080142Z">
+        <seg>&lt;l0&gt;Hobespenak&lt;/l0&gt; elkarrizketa-koadroa irekitzen du.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141222T095407Z" creationid="assar" creationdate="20141222T095407Z">
@@ -10335,6 +10383,14 @@ beste ezer egin behar den jakiteko.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T092409Z" creationid="assar" creationdate="20141229T092409Z">
         <seg>Hobespen-sistema gordetzeko operazioak huts egin du!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080128Z" creationid="asiersarasua" creationdate="20191013T080128Z">
+        <seg>Hobespenak...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,6 +12092,14 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T115456Z" creationid="assar" creationdate="20141229T115456Z">
         <seg>Segmentazio-arauak honako ordenan aplikatzen dira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080229Z" creationid="asiersarasua" creationdate="20191013T080229Z">
+        <seg>Segmentazioa...</seg>
       </tuv>
     </tu>
     <tu>
