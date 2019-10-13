@@ -3996,6 +3996,14 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080848Z" creationid="asiersarasua" creationdate="20191013T080848Z">
+        <seg>Sortu uneko dokumentu itzulia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T120608Z" creationid="assar" creationdate="20141229T120608Z">
@@ -4012,10 +4020,26 @@ Hartu beste trago bat.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080858Z" creationid="asiersarasua" creationdate="20191013T080858Z">
+        <seg>Sortu MED proiektuak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141222T095732Z" creationid="assar" creationdate="20141222T095732Z">
         <seg>Sortu proiektu berria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080828Z" creationid="asiersarasua" creationdate="20191013T080828Z">
+        <seg>Sortu dokumentu itzuliak</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,6 +4112,14 @@ Hartu beste trago bat.</seg>
       </tuv>
       <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080702Z" creationid="asiersarasua" creationdate="20191013T080702Z">
         <seg>Proiektu berria sortu eta irekitzen du.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080844Z" creationid="asiersarasua" creationdate="20191013T080844Z">
+        <seg>Helburu-dokumentuak sortzen ditu zure itzulpena oinarri hartuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10624,6 +10656,14 @@ gisa kargatzeko, talde-funtzionaltasunik gabe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080909Z" creationid="asiersarasua" creationdate="20191013T080909Z">
+        <seg>Proiektuaren fitxategiak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190922T070704Z" creationid="assar" creationdate="20190922T070704Z">
@@ -10808,6 +10848,14 @@ gisa kargatzeko, talde-funtzionaltasunik gabe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080903Z" creationid="asiersarasua" creationdate="20191013T080901Z">
+        <seg>Propietateak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provider</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20190916T125716Z" creationid="assar" creationdate="20190916T125716Z">
@@ -10852,6 +10900,14 @@ gisa kargatzeko, talde-funtzionaltasunik gabe.</seg>
       </tuv>
       <tuv lang="eu" changeid="assar" changedate="20141229T110437Z" creationid="assar" creationdate="20141229T110437Z">
         <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="eu" changeid="asiersarasua" changedate="20191013T080920Z" creationid="asiersarasua" creationdate="20191013T080920Z">
+        <seg>Irten</seg>
       </tuv>
     </tu>
     <tu>
