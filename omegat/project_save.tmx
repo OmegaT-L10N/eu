@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_cd437983a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12223,11 +12223,12 @@ Bilaketen esparru lehenetsia proiektua da, eta karpeten hierarkia jakin batean k
       </tuv>
     </tu>
     <tu>
+      <note>{0,number,#} in translation should remain as is</note>
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="eu" changeid="assar" changedate="20190916T124705Z" creationid="assar" creationdate="20190916T124705Z">
-        <seg>Segmentua {0,zenbakia,#}</seg>
+      <tuv lang="eu" changeid="Kos Ivantsov" changedate="20200124T180026Z" creationid="assar" creationdate="20190916T124705Z">
+        <seg>Segmentua {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
